@@ -1,6 +1,3 @@
-Project: Written by Michael Shriki & Or Ella
-ID: 305599417 , 2033049669
-eMail: shriki001@gmail.com, or7ella@gmail.com
 
 Files:run.py, icon.png, csv file('s) as u wish
 how to run: must have python interpreter installed on the computer!

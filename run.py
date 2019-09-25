@@ -256,7 +256,7 @@ class SampleApp(Tk):
         return the_list
 
     def show_frame(self, page_name, filename):
-        if page_name == "Page1" and filename != 0:
+        if page_name == "Page1":
             try:
                 with open(filename, 'r') as file:
                     self.db_list = list(csv.reader(file))
